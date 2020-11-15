@@ -1,0 +1,8 @@
+.btn-one {
+	padding: 15px;
+	background-color: rosybrown;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+	box-shadow: 5px 10px 5px rgba(0,0,0,0.1),
+}

@@ -1,0 +1,33 @@
+header {
+	background-color: black;
+	list-style: none;
+	height: 50px;
+	display: flex;
+	align-items: center;
+
+}
+header *{
+	display: inline;
+}
+
+header li {
+	margin: 20px;
+}
+
+header li a {
+	color: white;
+	text-decoration: none
+}
+
+a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: black;
+}
+
+header a:hover{
+	color: yellow;
+}
